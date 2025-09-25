@@ -9,7 +9,7 @@
         header('Location:menu.php');
         exit();
     }else{
-        header('Location:index.php');
+        header('Location:index.html');
         exit();
     }
 
